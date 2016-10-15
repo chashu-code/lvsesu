@@ -1,0 +1,1 @@
+基于LayaAir的Demo， 主要演示组件间事件的通讯，以及通过 cacheAs staticCache减少DrawCall。
